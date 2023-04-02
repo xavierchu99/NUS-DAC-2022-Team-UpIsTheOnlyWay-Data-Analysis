@@ -3,8 +3,9 @@
 This repository contains the code for data analysis using Grab's GPS trajectory dataset by Team UpIsTheOnlyWay.
 ## Dataset
 
-The dataset used for this analysis is Grab's GPS trajectory dataset. It contains the GPS locations and timestamps of Grab vehicles in Southeast Asia. The dataset was preprocessed to remove erroneous data and converted into CSV format.
-Packages Used
+The dataset used for this analysis is Grab's GPS trajectory dataset, consisting of 2 countries, Singapore and Indonesia(Jakarta). It contains the GPS locations and timestamps of Grab vehicles in Southeast Asia. The dataset was preprocessed to remove erroneous data and converted into CSV format.
+
+## Packages Used
 
 The following packages were used for the data analysis:
 
